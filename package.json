@@ -20,5 +20,8 @@
     "next": "^15.4.4",
     "react": "^19.1.0",
     "react-dom": "^19.1.0"
+  },
+  "devDependencies": {
+    "firebase": "^12.0.0"
   }
 }
