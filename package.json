@@ -15,6 +15,8 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "@genkit-ai/googleai": "^1.15.5",
+    "genkit": "^1.15.5",
     "next": "^15.4.4",
     "react": "^19.1.0",
     "react-dom": "^19.1.0"
