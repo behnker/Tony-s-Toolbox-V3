@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 6, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"","debugId":null}},
+    {"offset": {"line": 10, "column": 0}, "map": {"version":3,"sources":["file:///home/user/ai-tool-catalogue/app/page.tsx"],"sourcesContent":["import React from 'react';\n\nfunction Page() {\n  return (\n    <div>\n      <h1>Hello, world!</h1>\n    </div>\n  );\n}\n\nexport default Page;\n"],"names":[],"mappings":";;;;;AAEA,SAAS;IACP,qBACE,8OAAC;kBACC,cAAA,8OAAC;sBAAG;;;;;;;;;;;AAGV;uCAEe","debugId":null}}]
+}
